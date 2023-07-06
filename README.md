@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manel hasna haddoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manel hasna haddoud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/comm/in/manel-hasna-haddoud-aa5095278?midToken=AQEnNJphnTdoIQ&midSig=1ivvE-ZQxNsaQ1&trk=eml-email_accept_invite_single_01-header-14-profile&trkEmail=eml-email_accept_invite_single_01-header-14-profile-null-iro7vh%7Eljqqzdkm%7E6k-null-neptune%2Fprofile%7Evanity%2Eview&lipi=urn%3Ali%3Apage%3Aemail_email_accept_invite_single_01%3BNBXN1wF%2BQzKZyyEvBr3wAg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manel hasna haddoud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
