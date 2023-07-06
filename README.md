@@ -12,8 +12,10 @@
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **React**
+  
+- 🤝 I’m Studen in frontend Bootcamp offered by Re:Coded 
 
-- 💬 Ask me about **PHP, Js ,CSS, HTML**
+- 💬 Ask me about **PHP, Js , CSS, HTML**
 
 - 📫 How to reach me **manelhasnahaddoud@gmail.com**
 
