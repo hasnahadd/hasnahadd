@@ -15,7 +15,7 @@
   
 - 🤝 I’m Studen in frontend Bootcamp offered by Re:Coded 
 
-- 💬 Ask me about **PHP, Js , CSS, HTML**
+- 💬 Ask me about **PHP, Js , CSS, HTML , Networking**
 
 - 📫 How to reach me **manelhasnahaddoud@gmail.com**
 
