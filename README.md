@@ -13,12 +13,12 @@
 
 - 🤝 I’m looking for help with **React**
   
-- 🤝 I’m Studen in frontend Bootcamp offered by Re:Coded 
+- 🤝 I’m Student in frontend Bootcamp offered by Re:Coded 
 
 - 💬 Ask me about **PHP, Js , CSS, HTML , Networking**
 
 - 📫 How to reach me **manelhasnahaddoud@gmail.com**
-
+  ``` console.log('hello world')```
 - ⚡ Fun fact **Funy Curious**
 
 <h3 align="left">Connect with me:</h3>
