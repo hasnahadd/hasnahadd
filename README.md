@@ -20,7 +20,7 @@
 - 📫 How to reach me **manelhasnahaddoud@gmail.com** <br>
   ``` console.log('hello world')```
 - ⚡ Fun fact **Funy Curious**
->quote "Self-belief and hard work will always earn you success." — Virat Kohli
+>quote "Self-belief and hard work will always earn you success." 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
