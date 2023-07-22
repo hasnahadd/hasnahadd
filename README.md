@@ -18,7 +18,6 @@
 - 💬 Ask me about **PHP, Js , CSS, HTML , Networking**
 
 - 📫 How to reach me **manelhasnahaddoud@gmail.com** <br>
-  ``` console.log('hello world')```
 - ⚡ Fun fact **Funy Curious**
 > "Self-belief and hard work will always earn you success." 
 
