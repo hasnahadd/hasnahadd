@@ -10,9 +10,7 @@
 - 🔭 I’m currently working on [E-commerce website](https://github.com/hasnahadd/FirstProject)
 
 - 🌱 I’m currently learning **React**
-
-- 🤝 I’m looking for help with **React**
-  
+ 
 - 🤝 I’m Student in frontend Bootcamp offered by Re:Coded 
 
 - 💬 Ask me about **PHP, Js , CSS, HTML , Networking**
