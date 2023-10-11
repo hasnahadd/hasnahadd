@@ -4,16 +4,16 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnahadd&label=Profile%20views&color=0e75b6&style=flat" alt="hasnahadd" /> </p>
 
-- 🔭 I’m currently working on [E-commerce website](https://github.com/hasnahadd/FirstProject)
+- 🔭 I’m currently working on capstone project
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React , Nextjs**
  
 - 🤝 I’m a Student in frontend Bootcamp offered by Re:Coded 
 
 - 💬 Ask me about **PHP, Js, CSS, HTML, Networking**
 
 - 📫 How to reach me **manelhasnahaddoud@gmail.com** <br>
-- ⚡ Fun fact **Funy Curious**
+
 > "Self-belief and hard work will always earn you success." 
 
 <h3  align="left">Connect with me:</h3>
