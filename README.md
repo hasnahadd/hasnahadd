@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/manel hasna haddoud](https://www.linkedin.com/in/manelhasna-haddoud/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manel hasna haddoud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manelhasna-haddoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manel hasna haddoud" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
