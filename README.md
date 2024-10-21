@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnahadd&label=Profile%20views&color=0e75b6&style=flat" alt="hasnahadd" /> </p>
 
-- 💬 Ask me about **React ,Nextjs**
+- 💬 Ask me about **React ,Nextjs ,mongodb **
 
 - 📫 How to reach me **manelhasnahaddoud@gmail.com**
 
