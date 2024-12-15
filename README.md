@@ -1,14 +1,12 @@
 # Hi 🌸
 
-### A passionate full-stack developer from Algeria 💻💕
+### A passionate full-stack developer from Algeria 💻
 
 <p align="center">
   <img src="your-profile-picture.jpg" alt="Manel Hasna" width="120" height="120" style="border-radius: 50%; border: 6px solid #f1c6d1;">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasnahadd&label=Profile%20views&color=0e75b6&style=flat" alt="hasnahadd" />
-</p>
+
 
 - 💬 Ask me about **React**, **Next.js**, **MongoDB**
 - 📫 How to reach me: **manelhasnahaddoud@gmail.com**
