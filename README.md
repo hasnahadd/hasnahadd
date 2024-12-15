@@ -1,4 +1,4 @@
-# Hi, 🌸
+# Hi 🌸
 
 ### A passionate full-stack developer from Algeria 💻💕
 
