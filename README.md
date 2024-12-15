@@ -1,4 +1,4 @@
-# Hi 👋, I'm **Manel ** 🌸
+# Hi, 🌸
 
 ### A passionate full-stack developer from Algeria 💻💕
 
