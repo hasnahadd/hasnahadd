@@ -3,7 +3,7 @@
 ### A passionate full-stack developer from Algeria
 
 <p align="center">
-  <img src="your-profile-picture.jpg" alt="Manel Hasna" width="120" height="120" style="border-radius: 50%; border: 4px solid #6a4c9c;">
+  
 </p>
 
 <p align="center">
